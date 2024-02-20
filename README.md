@@ -28,6 +28,8 @@ I used power query editor in PowerBi for the cleaning and transformation, These 
 ## Data Modelling
 PowerBi automatically connected some the related tables resulting in a star schema model. The AFCON Goals by Year and Countries is the fact table of the model,  AFCON By Country, Top Goal Scorer, Number of Games, Number of Hatricks By Year, Number of Penalties By Year, AFCON’s Own Goal are the dimenision table they are connected by the common colunn; Countries Column and Year/Edition column. I connected the remain two countries that where not connect; the AFCON by country and the AFCON podium finish.
 
+![](Data_Model.png)
+
 ## Data Analysis And Visualization
 
 ## Conclusion And Recommendation
