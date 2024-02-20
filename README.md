@@ -19,9 +19,14 @@ From tracking the evolution of goal-scoring trends to identifying the most domin
 This data from my data challenge group Datafrik on twitter. The dataset is in Excel workbook format, encompassing multiple sheets, each presenting distinct AFCON information: Goals By Year and Country, AFCON By Country, Top Goal Scorer, Number of Games, Number of Hatricks By Year, Number of Penalties By Year, AFCON’s Own Goal, etc.
 
 ## Data Cleaning/Transformation
-
+I used power query editor in PowerBi for the cleaning and transformation, These are the steps taken;
+1. I removed null values with Zero (0)
+2. I made some of the tables first row the header
+3. Then I unpivot the tables
+4. Change data type From 'Text' to 'Whole Number'
 
 ## Data Modelling
+PowerBi automatically connected some the related tables resulting in a star schema model. The AFCON Goals by Year and Countries is the fact table of the model,  AFCON By Country, Top Goal Scorer, Number of Games, Number of Hatricks By Year, Number of Penalties By Year, AFCON’s Own Goal are the dimenision table they are connected by the common colunn; Countries Column and Year/Edition column. I connected the remain two countries that where not connect; the AFCON by country and the AFCON podium finish.
 
 ## Data Analysis And Visualization
 
