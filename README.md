@@ -31,5 +31,6 @@ PowerBi automatically connected some the related tables resulting in a star sche
 ![](Data_Model.png)
 
 ## Data Analysis And Visualization
+![](Afcon_Visualization.png)
 
 ## Conclusion And Recommendation
