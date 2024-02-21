@@ -40,3 +40,5 @@ PowerBi automatically connected some the related tables resulting in a star sche
 6. Egypt's dominance with seven Afcon titles, followed by Cameroon with five, Ghana with four, and Nigeria with three, reflects the historical success and competitive spirit of these nations in African football.
 
 ## Conclusion And Recommendation
+1. More African countries should be encourge to participate in Afcon by promoting grassroots football development and providing support for smaller federations.
+2. 
