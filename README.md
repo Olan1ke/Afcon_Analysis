@@ -32,5 +32,11 @@ PowerBi automatically connected some the related tables resulting in a star sche
 
 ## Data Analysis And Visualization
 ![](Afcon_Visualization.png)
+1. With 45 out of 54 African countries participating in Afcon, it indicates significant representation across the continent. The 1483 matches played over the past 33 years demonstrate the tournament's longevity and the frequency of football matches.
+2. The total of 1768 goals scored highlights the excitement and competitiveness of Afcon matches. The presence of 248 penalty goals indicates the importance of set-piece situations in influencing match outcomes.
+3. Egypt, Ivory Coast, Cameroon, Nigeria, and Ghana emerging as the countries with the highest number of goals underscores their footballing prowess and consistency in Afcon tournaments. The record-breaking 102 goals in 2019 signifies an exceptionally high-scoring tournament.
+4. The concentration of penalty goals among Ghana, Cameroon, Egypt, D R Congo, Guinea, and Nigeria emphasizes the significance of penalty-taking proficiency and its impact on match results.
+5. The top five goal scorers, including Laurent Pokou, Samuel Eto'o, Ndaye Mulamba, Rashidi Yekini, and Vincent Aboubakar, represent some of the most prolific and influential players in Afcon history, contributing significantly to their national teams' success.
+6. Egypt's dominance with seven Afcon titles, followed by Cameroon with five, Ghana with four, and Nigeria with three, reflects the historical success and competitive spirit of these nations in African football.
 
 ## Conclusion And Recommendation
