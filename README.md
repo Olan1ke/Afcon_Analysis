@@ -41,4 +41,9 @@ PowerBi automatically connected some the related tables resulting in a star sche
 
 ## Conclusion And Recommendation
 1. More African countries should be encourge to participate in Afcon by promoting grassroots football development and providing support for smaller federations.
-2. 
+2. Teams should focus on penalty-taking training to improve their conversion rate during critical moments in matches, potentially impacting match outcomes.
+3. To ensure a brighter future for African football, let's focus on investing in youth development programs across the continent. By nurturing young talent, we can create a sustainable pipeline of skilled footballers who will represent their nations with pride in future AFCON tournaments.
+4. Encouraging fair play and sportsmanship can help foster a positive and inclusive environment for all teams, while also minimizing penalties and ensuring equal opportunities for success.
+5. It is imperative to invest in youth development initiatives to nurture talent and groom future top scorers, thus ensuring a sustainable pipeline of skilled players for African football.
+
+In conclusion, the insights gleaned from the analysis of Afcon data provide valuable information on the tournament's history, trends, and key contributors. The data underscores the significance of goals, penalty goals, top scorers, and tournament winners in shaping the landscape of African football. By implementing the recommended strategies, stakeholders can continue to elevate the quality and competitiveness of Afcon, contributing to the growth and development of football across the continent.
