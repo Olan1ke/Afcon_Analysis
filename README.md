@@ -1,4 +1,5 @@
 # AFCON Analysis Over The Years
+![](Afcon_Image.png)
 
 ## Introduction
 This Dataset is about  The Africa Cup of Nations (AFCON), which is the main international men's football championship of Africa organized by the Confederation of African Football (CAF).I Embarked on an exploration of the AFCON data to see through the rich tapestry of the tournament's history. Beyond the mere statistics lie untold narratives waiting to be unearthed, revealing the essence of what makes AFCON a cherished spectacle in the world of football. 
